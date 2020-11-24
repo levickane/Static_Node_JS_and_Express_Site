@@ -1,0 +1,11 @@
+extends layout
+
+block content
+    section.desk
+        h1= `${error.message} - Status: Something broke!`
+        a.button-primary-small(href='/') Go Home
+        br
+        br
+        .paper
+        pre.stack-trace= error.stack
+        .tear

@@ -3,14 +3,14 @@
     {
       "id": 0,
       "project_name": "Random Quote Generator",
-      "description": "Clicking the bottom generates a new random quote",
+      "description": "Clicking the 'Show another quote' button, generates a new random quote",
       "technologies": ["HTML", "CSS", "Javascript"],
       "live_link": "",
       "github_link": "https://github.com/levickane/techdegree-project-1",
       "img_urls": [
-        "images/project1-1",
-        "images/project1-2",
-        "images/project1-3"
+        "/images/project1-1.png",
+        "/images/project1-2.png",
+        "/images/project1-3.png"
       ]
     },
     {
@@ -21,9 +21,9 @@
       "live_link": "",
       "github_link": "https://github.com/levickane/list_pagination_project",
       "img_urls": [
-        "images/project2-1",
-        "images/project2-2",
-        "images/project2-3"
+        "/images/project2-1.png",
+        "/images/project2-2.png",
+        "/images/project2-3.png"
       ]
     },
     {
@@ -34,9 +34,9 @@
       "live_link": "",
       "github_link": "https://github.com/levickane/Interactive_Form_JS",
       "img_urls": [
-        "images/project3-1",
-        "images/project3-2",
-        "images/project3-3"
+        "/images/project3-1.png",
+        "/images/project3-2.png",
+        "/images/project3-3.png"
       ]
     },
     {
@@ -47,9 +47,9 @@
       "live_link": "",
       "github_link": "https://github.com/levickane/JS_OOP_Game",
       "img_urls": [
-        "images/project4-1",
-        "images/project4-2",
-        "images/project4-3"
+        "/images/project4-1.png",
+        "/images/project4-2.png",
+        "/images/project4-3.png"
       ]
     },
     {
@@ -60,9 +60,9 @@
       "live_link": "",
       "github_link": "https://github.com/levickane/API_request_project",
       "img_urls": [
-        "images/project5-1",
-        "images/project5-2",
-        "images/project5-3"
+        "/images/project5-1.png",
+        "/images/project5-2.png",
+        "/images/project5-3.png"
       ]
     }
   ]
