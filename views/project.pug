@@ -23,7 +23,7 @@ block content
             li= val
 
         //- Use template literals and interpolation to add URLs to the hrefs below so they link to the repo and the live version of each project.
-        a.button.expanded(href='') Live Demo
+        a.button.expanded(href=project.live_link) Live Demo
         br
         a.button.expanded(href= project.github_link) GitHub Repo
     

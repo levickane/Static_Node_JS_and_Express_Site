@@ -5,7 +5,7 @@
       "project_name": "Random Quote Generator",
       "description": "Clicking the 'Show another quote' button, generates a new random quote",
       "technologies": ["HTML", "CSS", "Javascript"],
-      "live_link": "",
+      "live_link": "https://levickane.github.io/techdegree-project-1/",
       "github_link": "https://github.com/levickane/techdegree-project-1",
       "img_urls": [
         "/images/project1-1.png",
@@ -18,7 +18,7 @@
       "project_name": "List Pagination",
       "description": "A large list of people are paginated into lists of 10. Entering letters into the filter will filter the list down.",
       "technologies": ["HTML", "CSS", "Javascript"],
-      "live_link": "",
+      "live_link": "https://levickane.github.io/list_pagination_project/",
       "github_link": "https://github.com/levickane/list_pagination_project",
       "img_urls": [
         "/images/project2-1.png",
@@ -31,7 +31,7 @@
       "project_name": "Interactive Form",
       "description": "A form that is reactive to your selections. Also, errors will populate when fields are inputed incorrectly.",
       "technologies": ["HTML", "CSS", "Javascript"],
-      "live_link": "",
+      "live_link": "https://levickane.github.io/Interactive_Form_JS/",
       "github_link": "https://github.com/levickane/Interactive_Form_JS",
       "img_urls": [
         "/images/project3-1.png",
@@ -44,7 +44,7 @@
       "project_name": "JS OOP Phrase Hunter Game",
       "description": "Typing correct letters will populate the missing letters. Incorrect letters will cost you a life. All previously typed letters (incorrect/correct) will highlight red or green, inclusively",
       "technologies": ["HTML", "CSS", "Javascript"],
-      "live_link": "",
+      "live_link": "https://levickane.github.io/JS_OOP_Game/",
       "github_link": "https://github.com/levickane/JS_OOP_Game",
       "img_urls": [
         "/images/project4-1.png",
@@ -57,7 +57,7 @@
       "project_name": "Public API Request project",
       "description": "This project gathers information from a random user genorator website and uploads a list of 12 people. Clicking on the person will bring up thier profile and the search bar allows you to filter people by whatever letters you type.",
       "technologies": ["HTML", "CSS", "Javascript", "AJAX"],
-      "live_link": "",
+      "live_link": "https://levickane.github.io/API_request_project/",
       "github_link": "https://github.com/levickane/API_request_project",
       "img_urls": [
         "/images/project5-1.png",
